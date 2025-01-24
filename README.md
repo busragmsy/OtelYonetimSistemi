@@ -21,13 +21,13 @@ Proje geliştirilirken aşağıdaki teknolojiler kullanılmıştır:
 Proje kapsamında oluşturulan ER diyagramı, sistemin mimarisi ve özelliklerini daha iyi anlamanıza yardımcı olacaktır:
 
 ### 1. Genel ER Diyagramı 🎨
-![ER Diyagramı](path_to_er_diagram_image)
+![ER Diyagramı] ![Image](https://github.com/user-attachments/assets/bd711350-bbcd-4305-bcd8-43b25bbaab47)
 
-### 2. Veri Akış Diyagramı 🔄
-![Veri Akış Diyagramı](path_to_data_flow_diagram)
+### 2. Class Diyagramı 🔄
+![Class Diyagramı] ![Image](https://github.com/user-attachments/assets/d7feb102-d920-4c8e-89a9-c4f527b66b2e)
 
-### 3. Sistem Mimari Diyagramı 🌐
-![Mimari Diyagram](path_to_architecture_diagram)
+### 3. Use Case Diyagramı 🌐
+![Usecase Diyagram] ![Image](https://github.com/user-attachments/assets/684652ac-8ffe-4069-863b-ab3c229ad434)
 
 ---
 
