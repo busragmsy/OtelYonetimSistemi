@@ -21,13 +21,13 @@ Proje geliştirilirken aşağıdaki teknolojiler kullanılmıştır:
 Proje kapsamında oluşturulan ER diyagramı, sistemin mimarisi ve özelliklerini daha iyi anlamanıza yardımcı olacaktır:
 
 ### 1. Genel ER Diyagramı 🎨
-![ER Diyagramı] ![Image](https://github.com/user-attachments/assets/bd711350-bbcd-4305-bcd8-43b25bbaab47)
+![Image](https://github.com/user-attachments/assets/bd711350-bbcd-4305-bcd8-43b25bbaab47)
 
 ### 2. Class Diyagramı 🔄
-![Class Diyagramı] ![Image](https://github.com/user-attachments/assets/d7feb102-d920-4c8e-89a9-c4f527b66b2e)
+![Image](https://github.com/user-attachments/assets/d7feb102-d920-4c8e-89a9-c4f527b66b2e)
 
 ### 3. Use Case Diyagramı 🌐
-![Usecase Diyagram] ![Image](https://github.com/user-attachments/assets/684652ac-8ffe-4069-863b-ab3c229ad434)
+![Image](https://github.com/user-attachments/assets/684652ac-8ffe-4069-863b-ab3c229ad434)
 
 ---
 
@@ -37,31 +37,39 @@ Aşağıdaki görseller, projede geliştirilen özellikleri detaylı bir şekild
 ### Proje Görselleri 📝
 
 1. **Login Sayfası**
-![Login Sayfası](path_to_login_image)
+![Image](https://github.com/user-attachments/assets/22e1a3ef-6069-420d-acfb-9e2092fe7245)
 
 2. **Ana Ekran**
-![Ana Ekran](path_to_main_screen_image)
+![Image](https://github.com/user-attachments/assets/727b1f79-0b82-4edf-a22f-3d34181d8848)
 
 3. **Rezervasyon Sayfası**
-![Rezervasyon Sayfası](path_to_reservation_image)
+![Image](https://github.com/user-attachments/assets/1f8ba81c-e7f3-43d9-b89a-3971077d555f)
+![Image](https://github.com/user-attachments/assets/f9a9e63b-f27a-4e61-b250-fff12110c6b0)
+![Image](https://github.com/user-attachments/assets/ee53d75b-a8a4-43a4-a7df-8e4f1e8b71f5)
+![Image](https://github.com/user-attachments/assets/8bdc8f16-5fed-4cbe-8206-618900116fc0)
+![Image](https://github.com/user-attachments/assets/cc30e02f-c3c7-47a5-b78f-e0556dc14492)
+![Image](https://github.com/user-attachments/assets/c6be28e2-3bb4-4ba8-afb7-eb89319d5da4)
 
-4. **Departman Yönetimi**
-![Departman Yönetimi](path_to_department_management_image)
+5. **Müşteriler Sayfası**
+![Image](https://github.com/user-attachments/assets/6bf23382-32ab-4b48-822b-916e1260b9e9)
 
-5. **Personel Listesi**
-![Personel Listesi](path_to_personnel_list_image)
+6. **Tanımlamalar**
+![Image](https://github.com/user-attachments/assets/1b7e6c82-5ff9-466d-9c29-0ced9336f829)
+![Image](https://github.com/user-attachments/assets/b4390631-ff5d-40d0-a9b0-0d1e22c55b71)
+![Image](https://github.com/user-attachments/assets/01f773c0-9b3d-408f-bdad-108fc7fde5e3)
 
-6. **Kasa Takibi**
-![Kasa Takibi](path_to_cash_tracking_image)
+7. **Personel Sayfası**
+![Image](https://github.com/user-attachments/assets/b1aa79f7-f945-4e6b-b9b1-c938b78001a8)
 
-... ve diğer ekranları detaylıca görmek için görselleri inceleyebilirsiniz.
+8. **Araçlar Sekmesi**
+![Image](https://github.com/user-attachments/assets/2390a4ce-9b07-4267-8388-62300a0d0147)
 
 ---
 
 ## Tabloların İlişki Şeması 🔠
-Proje kapsamında kullanılan tüm tabloları ve bu tablolar arasındaki ilişkileri gösteren ER diyagramı aşağıda sunulmuştur:
+Proje kapsamında kullanılan tüm tabloları ve bu tablolar arasındaki ilişkileri gösteren görsel aşağıda sunulmuştur:
 
-![Tablo İlişkileri Şematik Diyagram](path_to_relationship_diagram)
+![Image](https://github.com/user-attachments/assets/8a2c972b-c6df-461b-bc5f-bc19e621551d)
 
 ---
 
