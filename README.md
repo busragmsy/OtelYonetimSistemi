@@ -17,6 +17,73 @@ Proje geliştirilirken aşağıdaki teknolojiler kullanılmıştır:
 
 ---
 
+### 🌟 Projenin Özellikleri
+
+#### 🔐 **Kullanıcı Dostu Giriş Sistemi**  
+Otomasyon sistemine erişim, veritabanında kayıtlı kullanıcılar için **güvenilir** ve **kolay** bir şekilde sağlanmaktadır.  
+- **Beni Hatırla**: Kullanıcının bir sonraki girişini hızlandırır.  
+- **Şifremi Unuttum**: Şifre kurtarma özelliğiyle kolay erişim sağlar.
+
+---
+
+#### 🏠 **Ana Sayfa**  
+Ana sayfa, en çok ihtiyaç duyulan bilgilere **hızlı erişim** sağlamak için tasarlanmıştır:  
+- **Boş Odalar Listesi**: Müsait odaların listesi ve bilgileri.  
+- **Bugün Gelecek Misafirler**: Gün içerisinde giriş yapacak misafirlerin detaylı listesi.  
+- **Oda Doluluk Grafiği**: Otelin doluluk oranlarını görsel olarak analiz etme.  
+- **Rezervasyon Grafiği**: Rezervasyonların tarih bazlı analizini yapabilme.  
+Ayrıca **çıkış yapma** ve **takvim** özellikleri de bu sekmede yer almaktadır.
+
+---
+
+#### 👥 **Müşteriler Sekmesi**  
+Misafir yönetimini kolaylaştırmak için aşağıdaki özellikleri sunar:  
+- **Yeni Misafir Ekleme**: Yeni müşterilerin sisteme kaydedilmesi.  
+- **Bilgi Güncelleme**: Mevcut müşteri bilgilerini düzenleme.  
+- **Misafir Silme**: Gereksiz kayıtların sistemden kaldırılması.
+
+---
+
+#### 👩‍💼 **Personeller Sekmesi**  
+Personel yönetimi için detaylı özellikler içerir:  
+- **Personel Listesi**: Tüm çalışanların kimlik ve iletişim bilgileri.  
+- **Görev Atamaları**: Çalışanlara özel görevlerin atanması.  
+- **Yeni Personel Kartı**: Yeni çalışan ekleme işlemleri.  
+- **Bilgi Güncelleme ve Silme**: Çalışan bilgilerinin düzenlenmesi veya kaldırılması.
+
+---
+
+#### 📋 **Rezervasyonlar Sekmesi**  
+Rezervasyon süreçlerini yönetmek için kapsamlı araçlar sunar:  
+- **Rezervasyon Tablosu**: Tüm rezervasyonların listesi.  
+- **Durum Bazlı Filtreleme**:  
+  - Geçmiş rezervasyonlar.  
+  - İptal edilen rezervasyonlar.  
+  - Gelecek rezervasyonlar.  
+  - Aktif rezervasyonlar.  
+- **CRUD İşlemleri**: Rezervasyon ekleme, güncelleme ve silme.
+
+---
+
+#### 🛠️ **Tanımlamalar Sekmesi**  
+Admin kullanıcılarının veritabanında düzenleme yapmasına olanak tanır:  
+- Durum, departman, kur, kasa, telefon, görev ve oda tanımlamaları için **CRUD** işlemleri.  
+- Veritabanı düzenlemeleri için kullanıcı dostu formlar.
+
+---
+
+#### 🔧 **Araçlar Sekmesi**  
+Araçlar sekmesi, ek uygulamalara ve önemli kaynaklara hızlı erişim sağlar:  
+- **Hesap Makinesi**, **Excel** ve **Word** gibi uygulamalara doğrudan erişim.  
+- **Merkez Bankası Kurları**: Günlük kurların yayınlandığı resmi web sitesine hızlı bağlantı.
+
+---
+
+#### 🚀 **Sekmeler Arası Geçiş**  
+Sekmeler arasında **hızlı ve kolay geçiş** yapılabilmesi, kullanıcı deneyimini artırır.
+
+---
+
 ## Proje Diyagramları 🔄
 Proje kapsamında oluşturulan ER diyagramı, sistemin mimarisi ve özelliklerini daha iyi anlamanıza yardımcı olacaktır:
 
